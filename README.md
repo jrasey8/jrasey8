@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jacob Rasey
-- 👀 I’m interested in Data Science and Artifical Intelligence
-- 🌱 I’m currently learning Tensor Flow
+- 👀 I’m interested in Data Science and Web Development
+- 🌱 I’m currently learning different Machine Learning Learning Libraries with Python and Spark
 - 💞️ I’m looking to collaborate on creative AI implementation projects
 - 📫 How to reach me jrasey8@gmail.com
-
