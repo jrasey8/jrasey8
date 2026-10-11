@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Jacob Rasey
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning about different machine learning models
-- 📫 How to reach me jrasey8@gmail.com
+Hey everybody my name is Jacob Rasey and I love solving complex problems on data, software development, and user experiences!
